@@ -1,5 +1,8 @@
 package com.geek.week1;
 
+/**
+ * 合并数组
+ */
 public class MergeArray {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
         int len1 = m - 1;
